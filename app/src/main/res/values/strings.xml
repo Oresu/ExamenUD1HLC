@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">​ExamenUD1HLC</string>
+    <string name="d_nde_estudias">¿Dónde Estudias?</string>
+    <string name="sal_dame">Salúdame</string>
+    <string name="busca_tu_video_favorito">Busca tu video favorito</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="para_poder_saludarte_escribe_tu_nombre">Para poder saludarte, escribe tu nombre.</string>
+    <string name="title_activity_acepta">Acepta</string>
+</resources>
